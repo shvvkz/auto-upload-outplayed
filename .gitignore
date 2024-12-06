@@ -1,0 +1,5 @@
+/target
+.env
+client*
+token*
+/folder_test
